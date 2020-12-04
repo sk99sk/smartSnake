@@ -1,0 +1,19 @@
+board_width = 400
+board_height = 400
+board_color  = (255,255,255)
+snake_width = 20
+wall_color = (0,0,0)
+snake_start_pos_x = 10
+snake_start_pos_y = 10
+food_color = (0,255,0)
+snake_color = (0,0,255)
+num_rows = board_height//snake_width
+num_cols = board_width//snake_width
+nn_structure = [24,16,3]
+population_size = 500
+num_gen = 30
+per_of_best_old_pop = 20.0
+per_of_worst_old_pop = 2.0
+mutation_percent = 5.0
+mutation_intensity = 0.1
+
