@@ -53,4 +53,5 @@ Genetic Algorithm
 7. Tune the hyper parameters from "parameters.py".
 
 
-
+## Contributor
+ Saksham Kapoor
