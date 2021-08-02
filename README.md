@@ -1,6 +1,11 @@
 
+
 # Smart Snake
 ## A bot to play the classic snake game
+
+![Screenshot from 2021-08-02 21-45-00](https://user-images.githubusercontent.com/49125971/127892321-b1d1f5a7-dc90-4823-9fb8-aa7841b8fc4c.png)![Screenshot from 2021-08-02 21-46-11](https://user-images.githubusercontent.com/49125971/127892459-6c770f1b-b7ab-4100-b8da-ca8a17b28344.png)
+![Screenshot from 2021-08-02 21-46-11](https://user-images.githubusercontent.com/49125971/127892494-ce38b0dd-b678-4bd8-adbf-1e1f6c9aabff.png)
+
 
 
 ## Algorithm Used
