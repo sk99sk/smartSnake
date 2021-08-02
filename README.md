@@ -1,3 +1,4 @@
+
 # Smart Snake
 ## A bot to play the classic snake game
 
@@ -5,8 +6,7 @@
 ## Algorithm Used
 Genetic Algorithm
 
-
-
+![Flow-chart-of-genetic-algorithm](https://user-images.githubusercontent.com/49125971/127892045-648b3603-f823-4f85-9662-c5d6d58a344a.png)
 
 
 ## Requirements
